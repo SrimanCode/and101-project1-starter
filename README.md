@@ -26,7 +26,8 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [X] Added a color background in the app
+- [X] Highlighted the text content in red
 
 ## Video Demo
 
